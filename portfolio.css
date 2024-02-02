@@ -1,0 +1,221 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.certificate1 {
+    color: blue;
+    font-family: "Roboto";
+    padding-left: 18px;
+    padding-bottom: 10px;
+}
+
+.certificate {
+    color: blue;
+    font-family: "Roboto";
+    padding-left: 18px;
+    padding-bottom: 10px;
+}
+
+.skillsedit {
+    color: #fdfa49;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.cardBootstrap {
+    background-color: white;
+    width: 210px;
+    border-radius: 12px;
+    padding-right: 28px;
+    padding-left: 28px;
+    margin-bottom: 24px;
+    font-family: "Open Sans";
+    margin-left: 12px;
+    margin-right: 12px;
+    font-size: 18px;
+    border-color: #7f077f;
+    border-style: solid;
+    border-width: 5px;
+    border-top: none;
+    border-bottom: none;
+    border-right: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.cardsql {
+    background-color: white;
+    width: 210px;
+    border-radius: 12px;
+    padding-right: 28px;
+    padding-left: 28px;
+    margin-bottom: 24px;
+    font-family: "Open Sans";
+    margin-left: 12px;
+    margin-right: 12px;
+    font-size: 18px;
+    border-color: #0939b9;
+    border-style: solid;
+    border-width: 5px;
+    border-top: none;
+    border-bottom: none;
+    border-right: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.cardpython {
+    background-color: white;
+    width: 210px;
+    border-radius: 12px;
+    padding-right: 28px;
+    padding-left: 28px;
+    margin-bottom: 24px;
+    font-family: "Open Sans";
+    margin-left: 12px;
+    margin-right: 12px;
+    font-size: 18px;
+    border-color: #4b3c88;
+    border-style: solid;
+    border-width: 5px;
+    border-top: none;
+    border-bottom: none;
+    border-right: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.cardjs {
+    background-color: white;
+    width: 210px;
+    border-radius: 12px;
+    padding-right: 28px;
+    padding-left: 28px;
+    margin-bottom: 24px;
+    font-family: "Open Sans";
+    margin-left: 12px;
+    margin-right: 12px;
+    font-size: 18px;
+    border-color: yellow;
+    border-style: solid;
+    border-width: 5px;
+    border-top: none;
+    border-bottom: none;
+    border-right: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.cardcss {
+    background-color: white;
+    width: 210px;
+    border-radius: 12px;
+    padding-right: 28px;
+    padding-left: 28px;
+    margin-bottom: 24px;
+    font-family: "Open Sans";
+    margin-left: 12px;
+    margin-right: 12px;
+    font-size: 18px;
+    border-color: blue;
+    border-style: solid;
+    border-width: 5px;
+    border-top: none;
+    border-bottom: none;
+    border-right: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.skills {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.logopara {
+    padding-top: 13px;
+}
+
+.logo {
+    height: 50px;
+    padding-top: 6px;
+}
+
+.card1 {
+    background-color: white;
+    width: 210px;
+    border-radius: 12px;
+    padding-right: 28px;
+    padding-left: 28px;
+    margin-bottom: 24px;
+    font-family: "Open Sans";
+    margin-left: 12px;
+    margin-right: 12px;
+    font-size: 18px;
+    border-color: red;
+    border-style: solid;
+    border-width: 5px;
+    border-top: none;
+    border-bottom: none;
+    border-right: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.contentEdit {
+    margin-top: 20px;
+}
+
+.mainPara {
+    font-family: "Roboto";
+    color: #101719;
+}
+
+.aboutmeHeading {
+    font-family: "Roboto";
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.mainHeading {
+    color: black;
+    font-family: "Roboto";
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.Image1 {
+    height: 200px;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.card-1 {
+    background-image: radial-gradient(#e7c4e8, #9db1b7);
+    border-style: solid;
+    color: #bd6327;
+    border-width: 5px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    display: flex;
+    flex-direction: row;
+    padding-top: 10px;
+
+    padding: 10px;
+}
+
+.bg-container {
+    background-color: #4e8cb9;
+    min-height: 100vh;
+    padding-bottom: 20px;
+}
